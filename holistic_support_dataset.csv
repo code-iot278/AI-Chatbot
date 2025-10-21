@@ -1,0 +1,101 @@
+Timestamp,User_Query,Chatbot_Response,Solution,Category,Risk_Level,Emotion_Label
+03-10-2025 09:00,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 09:05,My husband and I argue about finances.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,Medium,Sad
+03-10-2025 09:10,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 09:15,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 09:20,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 09:25,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 09:30,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 09:35,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 09:40,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 09:45,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 09:50,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 09:55,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 10:00,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 10:05,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 10:10,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 10:15,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 10:20,My husband and I argue about finances.,Controlling behavior detected. Do you want resources?,"Enable emergency contacts, consider couple counseling.",Relationship,Medium,Sad
+03-10-2025 10:25,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 10:30,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 10:35,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 10:40,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 10:45,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 10:50,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 10:55,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 11:00,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 11:05,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 11:10,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 11:15,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 11:20,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 11:25,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 11:30,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 11:35,My husband and I argue about finances.,Controlling behavior detected. Do you want resources?,"Enable emergency contacts, consider couple counseling.",Relationship,Medium,Sad
+03-10-2025 11:40,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 11:45,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 11:50,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 11:55,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 12:00,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 12:05,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 12:10,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 12:15,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 12:20,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 12:25,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 12:30,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 12:35,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 12:40,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 12:45,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 12:50,My husband and I argue about finances.,Controlling behavior detected. Do you want resources?,"Enable emergency contacts, consider couple counseling.",Relationship,Medium,Sad
+03-10-2025 12:55,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 13:00,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 13:05,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 13:10,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 13:15,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 13:20,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 13:25,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 13:30,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 13:35,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 13:40,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 13:45,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 13:50,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 13:55,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 14:00,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 14:05,My husband and I argue about finances.,Controlling behavior detected. Do you want resources?,"Enable emergency contacts, consider couple counseling.",Relationship,Medium,Sad
+03-10-2025 14:10,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 14:15,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 14:20,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 14:25,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 14:30,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 14:35,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 14:40,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 14:45,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 14:50,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 14:55,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 15:00,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 15:05,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 15:10,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 15:15,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 15:20,My husband and I argue about finances.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,Medium,Sad
+03-10-2025 15:25,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 15:30,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 15:35,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 15:40,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 15:45,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 15:50,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 15:55,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 16:00,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
+03-10-2025 16:05,My in-laws demand dowry before marriage.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 16:10,I’m being pressured for more dowry.,Dowry harassment is illegal. Need guidance?,"File complaint under Dowry Prohibition Act 1961 / IPC 498A, call helpline 181.",Legal / Dowry,High,Sad
+03-10-2025 16:15,Husband threatens me if I refuse dowry.,This is serious abuse. Immediate help needed?,"Call police 100 or 181 Women Helpline, seek protection order under Domestic Violence Act.",Domestic Violence / Dowry,High,Sad
+03-10-2025 16:20,I don’t know if dowry demands are illegal.,"Yes, dowry is illegal. Shall I guide you?",Learn rights under Dowry Prohibition Act 1961 + IPC 498A.,Legal Awareness / Dowry,Medium,Neutral
+03-10-2025 16:25,My parents are worried about dowry.,Dowry is illegal. Want safe marriage awareness?,"Attend pre-marriage counseling, government campaigns like Beti Bachao Beti Padhao.",Awareness / Dowry,Low,Neutral
+03-10-2025 16:30,I feel stressed managing work and family.,It sounds like you’re stressed. Want relaxation strategies?,"Practice 10-min daily meditation, plan weekly schedule, seek family support.",Mental Health,Medium,Sad
+03-10-2025 16:35,My husband and I argue about finances.,Controlling behavior detected. Do you want resources?,"Enable emergency contacts, consider couple counseling.",Relationship,Medium,Sad
+03-10-2025 16:40,I don’t feel safe at home.,Your safety is important. I can connect you with helplines.,Call 181 Women Helpline or police 100 immediately.,Domestic Violence,High,Sad
+03-10-2025 16:45,I want to start a small business.,That’s a great step! Want guidance for women entrepreneurs?,Join government programs like Mudra Yojana or WEP platform.,Career,Low,Happy
+03-10-2025 16:50,I feel lonely even with family around me.,Loneliness is common. Would you like self-help groups?,"Join online support groups, attend workshops.",Emotional Support,Medium,Sad
+03-10-2025 16:55,"I might be pregnant, but I’m nervous.",Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Medium,Neutral
+03-10-2025 17:00,My in-laws don't treat me with respect.,Family conflicts are stressful. Want coping tips?,"Attend family counseling, set boundaries, involve neutral elder.",Family,Medium,Sad
+03-10-2025 17:05,I don’t know my legal rights in marriage.,You have legal rights. Shall I explain?,"Use NCW portal, contact District Legal Services Authority.",Legal,Medium,Neutral
+03-10-2025 17:10,I have trouble sleeping lately.,Health issues are important. Need guidance?,"Consult local clinics, follow safe practices, track health regularly.",Health,Low,Sad
+03-10-2025 17:15,My partner controls who I talk to.,Financial stress is common. Want budgeting tips or couple counseling?,"Create joint budget using apps, attend couple finance workshop.",Relationship,High,Sad
